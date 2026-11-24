@@ -1,4 +1,4 @@
-# Two-storey Hamptons house: interactive 3D
+# Sun Valley Dr: interactive 3D
 
 Indicative 3D model of a two-storey Hamptons-style home, built from the builder's tender drawings.
 Open the live page: https://dbousamra.github.io/hamptons-house-3d/
